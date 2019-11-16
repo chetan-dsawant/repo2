@@ -1,6 +1,6 @@
-public class helloworld
+public class HelloWorld
 {
-	public saatic void main(String[] args)
+	public static void main(String[] args)
 	{
 		System.out.println("wlcom to jenkins java app");
 	}
